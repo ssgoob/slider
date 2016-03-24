@@ -5,14 +5,14 @@
 
 #slider {
   width: 600px;
-  height: 400px;
+  height: 600px;
   overflow: hidden;
   margin: 30px auto;
 }
 
 #slider > img {
   width: 600px;
-  height: 400px;
+  height: 600px;
   float: left;
   display: hidden;
 }
@@ -20,7 +20,7 @@
 a {
   padding: 5px 10px;
   background-color: #F0F0F0;
-  margin-top: 30px;
+  margin-top: 50px;
   text-decoration: none;
   color: #666;
 }
